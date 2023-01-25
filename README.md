@@ -1,4 +1,3 @@
-# About-Me
 <h1 align="center">Hi 👋, I'm Zakir Bangash</h1>
 <h3 align="center">A passionate Full Stack Engineer</h3>
 
